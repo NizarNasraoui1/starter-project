@@ -21,7 +21,7 @@
           <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct-processor/1.4.2.Final/mapstruct-processor-1.4.2.Final.jar" />
           <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct/1.4.2.Final/mapstruct-1.4.2.Final.jar" />
         </processorPath>
-        <module name="starter-microservice" />
+        <module name="starter-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -40,7 +40,7 @@
       <module name="identity-service" options="-parameters" />
       <module name="registry-service" options="-parameters" />
       <module name="restaurant-service" options="-parameters" />
-      <module name="starter-microservice" options="-parameters" />
+      <module name="starter-service" options="-parameters" />
       <module name="swiggy-app" options="-parameters" />
       <module name="swiggy-gateway" options="-parameters" />
     </option>
